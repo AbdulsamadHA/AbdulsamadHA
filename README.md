@@ -1,16 +1,22 @@
-## Hi there 👋
+## Computer Engineering Student | Cybersecurity | Network & System Security
 
-<!--
-**AbdulsamadHA/AbdulsamadHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently building my foundation in cybersecurity through hands-on work with networking, systems, virtualization and firewalls.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Up To
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛡️ System & Network Security Intern
+- 🔥 Learning FortiGate, firewall policies, NAT, routing and logging
+- 🐧 Working with Linux and Windows environments
+- 🖥️ Building labs using VMware
+- 🎯 Working toward Penetration Testing and Purple Team
+
+## 🧪 Current Labs
+
+- FortiGate Security Lab
+- Network Security Labs
+- Active Directory Lab — coming soon
+- Penetration Testing Labs — coming soon
+
+## 🛠️ Technologies
+
+`FortiGate` `Linux` `Windows` `VMware` `Networking` `Git` `C++` `Python`
